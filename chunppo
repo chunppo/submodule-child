@@ -1,0 +1,5 @@
+package com.chunppo.common;
+
+public class chunppo {
+    private name;
+}
