@@ -5,4 +5,5 @@ import lombok.Data;
 @Data
 public class CBean {
     int age;
+    String name;
 }
